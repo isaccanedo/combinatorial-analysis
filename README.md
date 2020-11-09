@@ -1,5 +1,7 @@
 # combinatorial-analysis
-Example of combinatorial analysis written in Java
+Examplo de análise combinatória escrito em JAVA
 
 # Saída do Console
+[1,2]
+
 

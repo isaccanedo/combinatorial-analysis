@@ -9,5 +9,8 @@ Examplo de análise combinatória dos números de 1 à 5
 - [2,3]
 - [2,4]
 - [2,5]
+- [3,4]
+- [3,5]
+- [4,5]
 
 

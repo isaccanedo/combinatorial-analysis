@@ -1,5 +1,5 @@
 # combinatorial-analysis
-Examplo de análise combinatória dos números de 1 à 5
+Examplo de análise combinatória dos números de 1 à 5.
 
 # Saída do Console
 - [1,2]
